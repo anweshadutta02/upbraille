@@ -1,6 +1,6 @@
 # upbraille
 
-A new Flutter project.
+Software engineering lab project
 
 ## Getting Started
 
